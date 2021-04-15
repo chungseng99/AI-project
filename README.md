@@ -100,12 +100,19 @@ From there, open up a terminal, and execute the following command:
 |LSTM|	94.53%|
 
 
-![Figure 4](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detector_plot.png)
+![Figure 2](https://github.com/FakeNewsDetection/FakeBuster/raw/master/images/naive-bayes-cm.png)
+Figure 2: Naive Bayes Confusion Matrics
 
-Figure 4: Fake News Dectector training accuracy
-As you can see, we are obtaining ~99% accuracy on our test set.
+![Figure 3](https://github.com/FakeNewsDetection/FakeBuster/raw/master/images/svm-cm.png)
+Figure 3: SVM Confusion Matrics
 
-Looking at Figure 4, we can see there are little signs of overfitting, with the validation loss lower than the training loss. 
+![Figure 4](https://github.com/FakeNewsDetection/FakeBuster/raw/master/images/neural-net-tf.png)
+Figure 3: Neural Network with TensorFlow Confusion Matrics
+
+![Figure 5](https://github.com/FakeNewsDetection/FakeBuster/raw/master/images/neural-net-keras.png)
+Figure 3: Neural Network with Keras Confusion Matrics
+
+ 
 
 Given these results, we are hopeful that our model will generalize well to images outside our training and testing set.
 
@@ -116,7 +123,7 @@ Fake News Detection Tutorial video
 
 
 
-[![Figure5](https://i.ytimg.com/vi/GS_ylghUtLQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC0tdcKDsZpSjcb3cxSlaJEIo7mLA)](https://www.youtube.com/watch?v=GS_ylghUtLQ&ab_channel=MachineLearningHub)
+[![Figure 6](https://i.ytimg.com/vi/GS_ylghUtLQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLC0tdcKDsZpSjcb3cxSlaJEIo7mLA)](https://www.youtube.com/watch?v=GS_ylghUtLQ&ab_channel=MachineLearningHub)
 
 Figure 5: Fake News Detection tutorial
 
