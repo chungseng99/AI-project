@@ -101,15 +101,19 @@ From there, open up a terminal, and execute the following command:
 
 
 ![Figure 2](https://github.com/FakeNewsDetection/FakeBuster/raw/master/images/naive-bayes-cm.png)
+ 
  Figure 2: Naive Bayes Confusion Matrics
 
 ![Figure 3](https://github.com/FakeNewsDetection/FakeBuster/raw/master/images/svm-cm.png)
+ 
  Figure 3: SVM Confusion Matrics
 
 ![Figure 4](https://github.com/FakeNewsDetection/FakeBuster/raw/master/images/neural-net-tf.png)
+ 
  Figure 4: Neural Network with TensorFlow Confusion Matrics
 
 ![Figure 5](https://github.com/FakeNewsDetection/FakeBuster/raw/master/images/neural-net-keras.png)
+ 
  Figure 5: Neural Network with Keras Confusion Matrics
 
  
