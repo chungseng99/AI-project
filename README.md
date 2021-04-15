@@ -42,7 +42,7 @@ rain.csv: A full training dataset with the following attributes:
 ## D.   PROJECT STRUCTURE
 
 The following directory is our structure of our project:
-
+-.
 -|
 -|--- datasets
 -|------- train.csv
@@ -115,7 +115,7 @@ Fake News Detection Tutorial video
 
 
 
-[![Figure5]((https://img.youtube.com/vi/GS_ylghUtLQ&ab/0.jpg))](https://www.youtube.com/watch?v=GS_ylghUtLQ&ab_channel=MachineLearningHub)
+[![Figure5](https://img.youtube.com/vi/GS_ylghUtLQ&ab/0.jpg)](https://www.youtube.com/watch?v=GS_ylghUtLQ&ab_channel=MachineLearningHub)
 
 Figure 5: Fake News Detection tutorial
 
