@@ -1,8 +1,8 @@
-# House Price Prediction 
+# Fake News Detection
 
 ## A. PROJECT SUMMARY
 
-**Project Title:** House Price Prediction
+**Project Title:** Fake News Detection
 
 **Team Members:** 
 - Siew Chung Seng 
@@ -48,7 +48,7 @@ The following directory is our structure of our project:
 - |--- datasets
 - |------- train.csv
 - |------- test.csv
-- | images
+- |--- images
 - |------ svm-cm.png
 - |------ naive-bayes-cm.png
 - |------ neural-net-tf.png
