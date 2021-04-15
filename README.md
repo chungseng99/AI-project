@@ -42,17 +42,17 @@ rain.csv: A full training dataset with the following attributes:
 ## D.   PROJECT STRUCTURE
 
 The following directory is our structure of our project:
--.
+
 -|
--+-- datasets
--|   +-- train.csv
--|   +-- test.csv
--+-- images
--|   +-- svm-cm.png
--|   +-- naive-bayes-cm.png
--|   +-- neural-net-tf.png
--|   +-- neural-net-keras.png
--|   +-- lstm-cm.png
+-|--- datasets
+-|------- train.csv
+-|------- test.csv
+-| images
+-|------ svm-cm.png
+-|------ naive-bayes-cm.png
+-|------ neural-net-tf.png
+-|------ neural-net-keras.png
+-|------ lstm-cm.png
 -+-- *.py
 
 
@@ -115,7 +115,7 @@ Fake News Detection Tutorial video
 
 
 
-[![Figure5](://yt3.ggpht.com/ytc/AAUvwnh3z81j-nPIR7aIgJ0Za7dpG3SwPxMQbUU3gpVfKg=s68-c-k-c0x00ffffff-no-rj","wi)](https://www.youtube.com/watch?v=GS_ylghUtLQ&ab_channel=MachineLearningHub)
+[![Figure5](https://yt3.ggpht.com/ytc/AAUvwnh3z81j-nPIR7aIgJ0Za7dpG3SwPxMQbUU3gpVfKg=s68-c-k-c0x00ffffff-no-rj","wi)](https://www.youtube.com/watch?v=GS_ylghUtLQ&ab_channel=MachineLearningHub)
 
 Figure 5: Fake News Detection tutorial
 
