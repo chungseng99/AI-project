@@ -115,7 +115,7 @@ Fake News Detection Tutorial video
 
 
 
-[![Figure5](https://yt3.ggpht.com/ytc/AAUvwnh3z81j-nPIR7aIgJ0Za7dpG3SwPxMQbUU3gpVfKg=s68-c-k-c0x00ffffff-no-rj","wi)](https://www.youtube.com/watch?v=GS_ylghUtLQ&ab_channel=MachineLearningHub)
+[![Figure5]((https://img.youtube.com/vi/GS_ylghUtLQ&ab_channel=MachineLearningHub/0.jpg))](https://www.youtube.com/watch?v=GS_ylghUtLQ&ab_channel=MachineLearningHub)
 
 Figure 5: Fake News Detection tutorial
 
