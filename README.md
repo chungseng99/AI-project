@@ -22,6 +22,7 @@ The topic of fake news detection on social media has recently attracted tremendo
 
 
 ![Coding](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/09/python-project-detecting-fake-news.jpg)
+
 Figure 1 Fake news detection
 
 
